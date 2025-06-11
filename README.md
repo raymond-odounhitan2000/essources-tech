@@ -1,4 +1,4 @@
-# 🚀 Bibliothèque de ressources tech de Raymond ODOUNHITAN
+# Bibliothèque de ressources tech de Raymond ODOUNHITAN
 
 Bienvenue dans ma sélection de ressources incontournables pour développeurs, DevOps, cybersécurité, data, sciences, IA, design, modélisation, déploiement, et bien plus.
 
